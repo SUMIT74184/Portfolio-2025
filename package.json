@@ -2,13 +2,13 @@
   "name": "my-v0-project",
   "version": "0.1.0",
   "private": true,
+  
   "scripts": {
+    "dev": "next dev -H 0.0.0.0",
     "build": "next build",
-    "dev": "next dev",
-    "lint": "eslint .",
-    "start": "next start"
-  },
-  "dependencies": {
+  "start": "next start -H 0.0.0.0"
+},
+"dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@emailjs/nodejs": "latest",
     "@hookform/resolvers": "^3.10.0",
