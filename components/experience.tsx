@@ -16,6 +16,19 @@ export function Experience() {
       ],
     },
     {
+      title: "Software developer Intern",
+      company: "Care Chain-AI",
+      period: "Feb 2025 – Aug 2025",
+      location: "Remote",
+      highlights: [
+        "Worked on backend scalability and API design using Spring Boot and Redis",
+        "Delivering responsive web applications using React",
+        "Integrating AI services into Spring Boot microservices",
+        "Setting up Dockerized microservices architectures with Apache Kafka",
+        "Managing container orchestration and deployments using Kubernetes"
+      ],
+    },
+    {
       title: "Open Source & Freelance",
       company: "Self-Employed",
       period: "Jan 2025 – Present",
