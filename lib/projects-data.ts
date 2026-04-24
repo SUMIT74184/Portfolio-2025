@@ -23,7 +23,7 @@ export const projects: Project[] = [
     longDescription:
       "Inventendo is a supply chain and logistics intelligence platform designed for operations teams to monitor KPIs, detect anomalies, and manage SaaS-style subscriptions. It reuses a shared microservices backbone for scalability while delivering AI-powered system insights, real-time analytics, and integrated payment workflows.",
     category: "Backend",
-    image: "/placeholder-logo.svg",
+    image: "/Inventendo_starter.png",
     tags: [
       "Next.js",
       "Spring Boot",
@@ -78,7 +78,7 @@ export const projects: Project[] = [
     longDescription:
       "Wolfdire is a flagship AI publishing platform built for creators who need scalable content workflows, monetization, and automated AI summaries. It uses microservices to solve performance bottlenecks and incorporates async event processing, caching, and container orchestration for cloud-native delivery.",
     category: "AI",
-    image: "/placeholder-logo.svg",
+    image: "/WOlfdire_starter.png",
     tags: [
       "Next.js",
       "Spring Boot",
