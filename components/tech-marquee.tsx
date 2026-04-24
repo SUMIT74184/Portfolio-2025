@@ -19,6 +19,10 @@ import {
   MessageSquare,
   Image,
   Wand2,
+  Lightbulb,
+  Network,
+  Cpu,
+  BookOpen,
 } from "lucide-react"
 
 export function TechMarquee() {
@@ -42,6 +46,14 @@ export function TechMarquee() {
     { name: "LangChain", icon: MessageSquare },
     { name: "Stable Diffusion", icon: Image },
     { name: "Prompt Engineering", icon: Wand2 },
+    { name: "LLM", icon: Brain },
+    { name: "RAG", icon: BookOpen },
+    { name: "GenAI", icon: Lightbulb },
+    { name: "Fine-tuning", icon: Cpu },
+    { name: "REST APIs", icon: Network },
+    { name: "PyTorch", icon: Cpu },
+    { name: "TensorFlow", icon: Cpu },
+    { name: "Kubernetes", icon: Container },
   ]
 
   return (
